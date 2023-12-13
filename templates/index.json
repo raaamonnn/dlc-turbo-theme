@@ -6,6 +6,7 @@
         "block-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Capture.png",
             "pretext": "<p>New Flavors Out! Check Out Now<\/p>",
             "title": "Baba Buzz",
             "subtitle": "",
@@ -16,7 +17,7 @@
             "button2_link": "",
             "button2_style": "global-button--banner",
             "text_position": "right",
-            "text_align": "center",
+            "text_align": "right",
             "caption_content_background": "original",
             "mobile_image_crop": "none"
           }
