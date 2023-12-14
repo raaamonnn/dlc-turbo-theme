@@ -46,7 +46,7 @@
     "headline_border_color": "#aaaaaa",
     "headline_border": "1",
     "divider_style": "solid",
-    "sub_footer_border_color": "#1b1f23",
+    "sub_footer_border_color": "#030507",
     "sale_banner_color": "#d54d4d",
     "new_banner_color": "#d4af37",
     "sticker_style": "round",
@@ -65,17 +65,17 @@
     "repeat_bg": "repeat",
     "bg_fixed": false,
     "bg_stretched": false,
-    "top_bar_bg_color": "#1b1f23",
+    "top_bar_bg_color": "#030507",
     "top_bar_cart_bg_color": "#d4714c",
     "minicart_bg_color": "#ffffff",
-    "header_bg_color": "#1b1f23",
-    "header_background": true,
+    "header_bg_color": "#030507",
+    "header_background": false,
     "transparent_header": true,
     "promo_bg_color": "#e4e4e4",
     "shop_home_page_content_bg_color": "#f6f7f9",
     "featured_links_background": "#ffffff",
     "product_hover_bg_color": "#000000",
-    "sub_footer_color": "#1b1f23",
+    "sub_footer_color": "#030507",
     "footer_bg": "",
     "footer_bg_stretched": false,
     "newsletter_popup_background_color": "#ffffff",
@@ -732,7 +732,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "promo_text": "<p><a href=\"\/collections\/active-accessories\" target=\"_blank\" title=\"Active Accessories\">START YOUR FITNESS RESOLUTION OFF RIGHT WITH THESE ACCESSORIES<\/a><\/p>",
+          "promo_text": "",
           "social_icons_header": true,
           "phone_number": "",
           "top_bar_menu": "",
@@ -741,8 +741,6 @@
           "show_locale_selector": true,
           "show_currency_selector": true,
           "logo_display_width": 200,
-          "logo": "shopify:\/\/shop_images\/dlc-site-header-straight-logo-white_2e9b9f40-3a8b-4199-adb9-fd3ed9a68c66.png",
-          "logo_mobile": "shopify:\/\/shop_images\/dlc-site-header-insignia-mobile_469fd642-d95a-40da-bc6c-5033d6ab85fe.png",
           "main_linklist": "main-menu",
           "main_linklist2": "",
           "vertical_menu": false,
@@ -761,7 +759,6 @@
           "footer-0": {
             "type": "logo",
             "settings": {
-              "image": "shopify:\/\/shop_images\/dlc-site-logo-circle-white_6d2f9ccd-f02b-4d0b-b51b-a3a992b4d376.png",
               "text_align": "left",
               "social_icons_footer": false
             }
@@ -776,14 +773,14 @@
           "footer-2": {
             "type": "link_list",
             "settings": {
-              "menu": "terms-and-policies",
+              "menu": "",
               "social_icons_footer": false
             }
           },
           "78537e32-47a2-4c44-91ce-1486b1ce6754": {
             "type": "link_list",
             "settings": {
-              "menu": "support",
+              "menu": "",
               "social_icons_footer": false
             }
           },
@@ -835,7 +832,6 @@
       },
       "1489125942243": {
         "type": "featured-promotions",
-        "disabled": true,
         "blocks": {
           "1489126133544": {
             "type": "image",
@@ -884,6 +880,7 @@
           "1489125942243-2",
           "1489125942243-0"
         ],
+        "disabled": true,
         "settings": {
           "wide_display": true,
           "promo_text_on_image_enabled": true,
@@ -1641,11 +1638,11 @@
               "richtext_top": "",
               "image_caption_top": "",
               "image_link_top": "",
-              "menu_1": "mens-apparel",
+              "menu_1": "",
               "menu_1_link": "shopify:\/\/collections\/all-mens-apparel",
-              "menu_2": "womens-apparel",
+              "menu_2": "",
               "menu_2_link": "shopify:\/\/collections\/all-womens-apparel",
-              "menu_3": "youth-babies",
+              "menu_3": "",
               "menu_3_link": "",
               "menu_4": "",
               "menu_4_link": "",
@@ -1664,9 +1661,9 @@
               "menu_1_link": "shopify:\/\/collections\/womens-apparel",
               "menu_2": "",
               "menu_2_link": "shopify:\/\/collections\/mens-apparel",
-              "menu_3": "hats-caps",
+              "menu_3": "",
               "menu_3_link": "",
-              "menu_4": "accessories",
+              "menu_4": "",
               "menu_4_link": "",
               "image_caption_bottom": "",
               "image_link_bottom": "",
@@ -1683,7 +1680,7 @@
               "menu_1_link": "shopify:\/\/collections\/yoga-bags",
               "menu_2": "",
               "menu_2_link": "shopify:\/\/collections\/yoga-mats-towels",
-              "menu_3": "coats-jackets",
+              "menu_3": "",
               "menu_3_link": "",
               "menu_4": "",
               "menu_4_link": "",
@@ -1746,7 +1743,6 @@
       },
       "1497536613905": {
         "type": "slideshow",
-        "disabled": true,
         "blocks": {
           "1497536613905-0": {
             "type": "image",
@@ -1791,6 +1787,7 @@
           "1497536613905-0",
           "1497536613905-1"
         ],
+        "disabled": true,
         "settings": {
           "wide_display": true,
           "slideshow_text_animation": "fadeInDown",
@@ -1960,14 +1957,6 @@
       "1489167092570",
       "1489167172377",
       "1497536613905"
-    ],
-    "blocks": {
-      "11361622e9d96a7999": {
-        "type": "shopify:\/\/apps\/growave-loyalty-wishlist-3\/blocks\/block.embed.socialshopwave-helper\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   }
 }
