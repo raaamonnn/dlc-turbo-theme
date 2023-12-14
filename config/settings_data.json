@@ -731,6 +731,9 @@
     "sections": {
       "header": {
         "type": "header",
+        "custom_css": [
+          "div.header__logo {max-width: 85px !important;}"
+        ],
         "settings": {
           "promo_text": "",
           "social_icons_header": true,
