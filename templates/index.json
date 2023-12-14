@@ -6,7 +6,7 @@
         "block-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8ef8eeee-f094-4b86-8aa3-12ae7cd89b82.webp",
+            "image": "shopify:\/\/shop_images\/resized_image_new.png",
             "pretext": "<p>New Flavors Out! Check Out Now<\/p>",
             "title": "Baba Buzz",
             "subtitle": "",
@@ -18,7 +18,7 @@
             "button2_style": "global-button--banner",
             "text_position": "right",
             "text_align": "right",
-            "caption_content_background": "original",
+            "caption_content_background": "darken_bg",
             "mobile_image_crop": "none"
           }
         },
@@ -131,7 +131,7 @@
         "block-5"
       ],
       "settings": {
-        "title": "Baba List",
+        "title": "Baba Buzz",
         "align_height": false,
         "collection_height": 200,
         "frontpage_collections_per_row": 3,
