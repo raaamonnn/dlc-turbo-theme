@@ -732,7 +732,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "div.header__logo {max-width: 85px !important;}"
+          "div.header__logo {max-width: 60px !important;}"
         ],
         "settings": {
           "promo_text": "",
@@ -763,6 +763,7 @@
           "footer-0": {
             "type": "logo",
             "settings": {
+              "image": "shopify:\/\/shop_images\/DALL_E_2023-12-14_09.06.35_-_Design_a_logo_for_Baba_Buzz_a_brand_that_suggests_energy_and_excitement._The_logo_should_be_bold_and_dynamic_using_vibrant_colors_that_convey_a_se-fotor-2_ddbadcfc-e878-4724-880f-0f5877559fa0.png",
               "text_align": "left",
               "social_icons_footer": false
             }
