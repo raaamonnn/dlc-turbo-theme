@@ -10,6 +10,7 @@
         },
         "16fe7ee1-9a6d-472d-9fb6-be5213e3c9ff": {
           "type": "filter",
+          "disabled": true,
           "settings": {
             "filter_name": "",
             "filter_tags": "",
@@ -48,7 +49,7 @@
         "44ef5111-56c6-41ba-a149-e24128e3cf8b"
       ],
       "settings": {
-        "featured_collection_image": true,
+        "featured_collection_image": false,
         "wide_display": true,
         "mobile_image_crop": "none",
         "caption_content_background": "original",
