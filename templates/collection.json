@@ -5,12 +5,12 @@
       "blocks": {
         "fff1532a-af1d-48ec-9c5f-fe400ca55676": {
           "type": "filter_by_collection",
+          "disabled": true,
           "settings": {
           }
         },
         "16fe7ee1-9a6d-472d-9fb6-be5213e3c9ff": {
           "type": "filter",
-          "disabled": true,
           "settings": {
             "filter_name": "",
             "filter_tags": "",
@@ -51,9 +51,10 @@
       "settings": {
         "featured_collection_image": false,
         "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Capture.png",
         "mobile_image_crop": "none",
         "caption_content_background": "original",
-        "display_collection_title": false,
+        "display_collection_title": true,
         "collection_breadcrumb": true,
         "collection_tags": true,
         "collection_sort": true,
